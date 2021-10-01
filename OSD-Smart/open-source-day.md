@@ -17,3 +17,5 @@
 - Make sure to ask questions!
 - Connect with mentors 
 - Be curious and love what you do!
+- If you are currently employed, check your company's rules for contributing to open source!
+ 
